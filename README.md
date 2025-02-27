@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="414" alt="image" src="https://github.com/user-attachments/assets/62baf80e-b937-4fc4-80d0-1d3a986db613" />
+<img width="727" alt="Annotation 2025-02-11 140738" src="https://github.com/user-attachments/assets/86819626-20c5-43f5-8669-dbc89aa55d54" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d903cb7a-6876-481f-9952-faade0ac91a4" />
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/2ccde3d4-1f92-41f0-a9bf-92c9b2570585" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -46,9 +46,72 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="401" alt="image" src="https://github.com/user-attachments/assets/863484bd-3434-42ed-a720-0f2b8ab71b9c" />
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/cba36eb5-046a-461d-bd8e-8d92716d0bd0" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/d0f91dca-2ba6-4d41-b808-49ac551a257c" />
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/66e1d5d6-79b7-4954-af63-909b0f9403e6" />
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+
+
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/280788b3-c429-4d62-8e86-76e73efcfef1" />
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+the picture below is supposed to display the users.
+
+
+
+
+
+<img width="785" alt="Annotation 2025-02-11 153422" src="https://github.com/user-attachments/assets/9a41de36-8e6a-44a0-a941-0d312a448963" />
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+
+<img width="740" alt="Annotation 2025-02-11 144848" src="https://github.com/user-attachments/assets/cac1fa8d-5af1-498a-a5f8-45e4f521a154" />
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+
+
+
+
+
+
+<img width="723" alt="Annotation 2025-02-11 145923" src="https://github.com/user-attachments/assets/b4d5e9bf-3c60-4a95-a280-6308c7ddd03b" />
+
+
