@@ -84,7 +84,7 @@ the picture below is supposed to display the users.
 
 
 
-<img width="785" alt="Annotation 2025-02-11 153422" src="https://github.com/user-attachments/assets/9a41de36-8e6a-44a0-a941-0d312a448963" />
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/6c1e75ce-18f0-4694-b13a-0da103ba3e10" />
 
 
 
