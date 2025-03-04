@@ -42,7 +42,8 @@ The first step to take is to create a new role called Supreme Admin. For the pur
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/cba36eb5-046a-461d-bd8e-8d92716d0bd0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here a Department is being created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
+
 </p>
 <br />
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/d0f91dca-2ba6-4d41-b808-49ac551a257c" />
